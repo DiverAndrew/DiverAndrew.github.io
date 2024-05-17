@@ -1,10 +1,8 @@
 ---
-title: "QuartoTest"
+title: "Andrew Khalil"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is my research website.
 
 ```{r}
 1 + 1
